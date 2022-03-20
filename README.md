@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://cdn.discordapp.com/avatars/725404396342608017/79ba40b34354e8abbf53db647bc7cb4b.webp?size=512" height="200">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevNetworktm&show_icons=true&theme=graywhite" alt="Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DevNetworktm&show_icons=true&theme=dark" alt="Github Stats" />
 </div>
 <h3>Various techs I use</h3>
 <p>
