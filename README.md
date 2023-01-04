@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.discordapp.com/avatars/725404396342608017/79ba40b34354e8abbf53db647bc7cb4b.webp?size=512" height="200">
+  <img src="https://avatars.githubusercontent.com/u/66486552?s=400&u=7f99dc4cb04310deacd1b4396ca31b5afb22fcb7&v=4" height="200">
   <img src="https://github-readme-stats.vercel.app/api?username=DevNetworktm&show_icons=true&theme=dark" alt="Github Stats" />
 </div>
 <h3>Various techs I use</h3>
